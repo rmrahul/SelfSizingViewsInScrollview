@@ -5,3 +5,7 @@ Self sizing label can be used in scrollview. I have created example where scroll
 
 
 
+
+
+
+
